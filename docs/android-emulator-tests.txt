@@ -1,0 +1,6 @@
+
+com.projectledger.OfflinePersistenceTest:..
+
+Time: 10.485
+
+OK (2 tests)

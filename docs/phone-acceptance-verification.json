@@ -1,0 +1,12 @@
+{
+  "device": "LAVA LXX504 Android API 35",
+  "transport": "operator-configured Tailscale private HTTPS 8443",
+  "native_acceptance": "passed",
+  "workbook_status": "synced",
+  "workbook_net_inr": "17400.01",
+  "formula_preserved": true,
+  "committed_records": 4,
+  "backup_restore_integrity": "passed",
+  "data": "synthetic only",
+  "test_script_does_not_modify_tailscale": true
+}

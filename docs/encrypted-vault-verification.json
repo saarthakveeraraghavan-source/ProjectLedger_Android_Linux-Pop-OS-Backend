@@ -1,0 +1,13 @@
+{
+  "gocryptfs": "2.6.1",
+  "actual_fuse_mount": true,
+  "exact_amount_minor": 1500025,
+  "sqlite_integrity": "ok",
+  "workbook_publication": "passed",
+  "backup_restore": "passed",
+  "busy_unmount_refused": true,
+  "plaintext_marker_absent_from_ciphertext": true,
+  "locked_startup_refused": true,
+  "remount_persistence": "passed",
+  "credentials": "temporary synthetic key only; production passphrase not created"
+}

@@ -1,0 +1,9 @@
+{
+  "transport": "actual_loopback_http",
+  "login": true,
+  "project_creation": true,
+  "expense_commit": true,
+  "idempotent_retry": true,
+  "exact_total_minor": 1250025,
+  "pull": true
+}

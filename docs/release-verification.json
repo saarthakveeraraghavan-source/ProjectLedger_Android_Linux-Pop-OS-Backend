@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-13T06:46:25.125315+00:00",
+  "package": "com.projectledger.production",
+  "version": "0.2.0",
+  "version_code": 2,
+  "sha256": "cf10b71ca331a404aad40d4d61ad0bcedbf2c1450e5c9f5baaaea0f31a2f1875",
+  "bytes": 31738698,
+  "signature_scheme_v2": "passed",
+  "signer_certificate_sha256": "6e34a22998bc4af49a66ed5e6d614ae9edc911a4d0564fe67f1ad1dadeae60cc",
+  "debuggable": false,
+  "test_activity_in_release": false,
+  "private_signing_material": "excluded; protected in operator encrypted vault"
+}

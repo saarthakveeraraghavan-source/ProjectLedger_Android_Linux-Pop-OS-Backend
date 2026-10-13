@@ -1,0 +1,6 @@
+com.projectledger.UsabilityTest:..
+com.projectledger.OfflinePersistenceTest:..
+
+Time: 4.897
+
+OK (4 tests)

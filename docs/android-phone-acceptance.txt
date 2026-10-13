@@ -1,0 +1,26 @@
+
+com.projectledger.ConnectedAcceptanceTest:
+STEP: Create project and synchronize offline project queue
+
+STEP: Manual offline edits synchronized; deferred AI proposal received
+
+STEP: Explicit AI confirmation synchronized
+
+STEP: Workbook linked and publication verified
+
+STEP: Second user authenticated; begin concurrent offline edits
+
+STEP: Conflict detected, reviewed, and resolved without losing edits
+
+STEP: Independent second-user expense retained; exact total verified
+
+STEP: Viewer denied offline write; revoked editor denied sync with queue preserved
+
+STEP: Refund and audited reversal totals verified
+
+STEP: Deterministic financial question answered from source records
+.
+
+Time: 20.963
+
+OK (1 test)

@@ -1,0 +1,8 @@
+{
+  "tool": "gocryptfs",
+  "version": "2.6.1",
+  "signature": "valid",
+  "signer_fingerprint": "FFF3E01444FED7C316A3545A895F5BC123A02740",
+  "source": "https://github.com/rfjakob/gocryptfs/releases/tag/v2.6.1",
+  "sha256": "49b8c0eb0f6373b6ac99c394a52909d8478e74c08d0961527c1162967cc28c44"
+}

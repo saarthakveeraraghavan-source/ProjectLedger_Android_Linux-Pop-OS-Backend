@@ -1,0 +1,18 @@
+# Template only; not installed or enabled.
+[Unit]
+Description=Project Ledger private backend
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/Projects/ExpenseTracker/ledger
+ExecStart=%h/Projects/ExpenseTracker/ledger/scripts/vault.sh run
+Environment=LEDGER_MODEL=qwen2.5:14b
+UMask=0077
+Restart=on-failure
+RestartSec=10
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,8 @@
+{
+  "old_schema": 1,
+  "new_schema": 2,
+  "all_existing_rows_preserved": true,
+  "sqlite_integrity": "ok",
+  "foreign_keys": "ok",
+  "financial_values_and_credentials": "compared privately; not printed"
+}

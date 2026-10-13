@@ -1,0 +1,15 @@
+{
+  "model": "qwen2.5:14b",
+  "data": "synthetic disposable only",
+  "checks": {
+    "unconfirmed_new_category_and_expense_not_committed": true,
+    "new_category_confirmed": true,
+    "largest_expense_from_all_history": true,
+    "optional_budget": true
+  },
+  "proposal": {
+    "amount_minor": 450000,
+    "category": "Land Survey",
+    "description": "Payment made for land surveying services."
+  }
+}
